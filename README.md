@@ -38,5 +38,7 @@ Basic-Text-Editor/
 
 - Support for more file formats
   
+---
+  
 ##  Author
 - Sujeet
